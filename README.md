@@ -7,45 +7,34 @@ These factors are hurtung the accessiblity of the page and prevents people with 
 
 My Tech lead has given me a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
 
-Semantic HTML elements can be found throughout the source code
-HTML elements follow a logical structure independent of styling and positioning
-Image and icon elements contain accessible alt attributes
-Heading attributes fall in sequential order
-Title elements contain a concise, descriptive title
 
-
-## User story
+**Acceptance Criteria**
 - Semantic HTML elements can be found throughout the source code
 - HTML elements follow a logical structure independent of styling and positioning
 - Image and icon elements contain accessible alt attributes
 - Heading attributes fall in sequential order
 - Title elements contain a concise, descriptive title
 
+**Assessment Criteria**
 
+**Of which completed:**
+-Application's links all function correctly.
+-Application deployed at live URL.
+-Application loads with no errors.
+-Application GitHub URL submitted.
+-GitHub repository that contains application code.
+-Application resembles (at least 90%) screenshots provided in the challenge instructions.
+-Repository has a unique name.
+-Repository contains multiple descriptive commit messages.
 
-Application's links all function correctly.
-Application deployed at live URL.
-Application loads with no errors.
-Application GitHub URL submitted.
-GitHub repository that contains application code.
-Application resembles (at least 90%) screenshots provided in the challenge instructions.
-Repository has a unique name.
-Repository contains multiple descriptive commit messages.
+## of which tbc:
+-Repository contains quality README file with description, screenshot, **and link to deployed application.**
+-Application's CSS selectors and properties are consolidated and organized to follow semantic structure. (not in acceptance criteria?)
+-Application's CSS file is properly commented. (not in acceptance criteria?)
+-Repository follows best practices for file structure and naming conventions. (not covered)
+-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.(not covered)
 
-## in progress:
-Repository contains quality README file with description, screenshot, and link to deployed application.
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-Application's CSS file is properly commented.
-Repository follows best practices for file structure and naming conventions.
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-## Submission requirments
-You are required to submit the following for review:
-
+## Submission
+I am required to submit the following for review:
 The URL of the deployed application.
-
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
