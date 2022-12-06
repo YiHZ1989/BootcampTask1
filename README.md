@@ -28,9 +28,10 @@ My Tech lead has given me a small list of specific criteria to satisfy the proje
 -Application resembles (at least 90%) screenshots provided in the challenge instructions.
 -Repository has a unique name.
 -Repository contains multiple descriptive commit messages.
+-Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ## of which tbc:
--Repository contains quality README file with description, screenshot, **and link to deployed application.**
+
 -Application's CSS selectors and properties are consolidated and organized to follow semantic structure. (not in acceptance criteria?)
 -Application's CSS file is properly commented. (not in acceptance criteria?)
 -Repository follows best practices for file structure and naming conventions. (not covered)
@@ -38,5 +39,5 @@ My Tech lead has given me a small list of specific criteria to satisfy the proje
 
 ## Submission
 I am required to submit the following for review:
-The URL of the deployed application.
+The URL of the deployed application: https://yihz1989.github.io/BootcampTask1/
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
