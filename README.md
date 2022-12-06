@@ -1,9 +1,11 @@
 # HTML CSS Git: Code Refactor
 
+Live demo page: https://yihz1989.github.io/BootcampTask1/
+
 ## Description 
 A Marketing agency has requested a code refactor to improove the accessiblity of Horiseon SEO services.
 The page contains broken links, not alt image tags, no tags to denote sections / navigation etc.
-These factors are hurtung the accessiblity of the page and prevents people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards from being able to fully utilize the site.
+These factors are hurting the accessiblity of the page and prevents people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards from being able to fully utilize the site.
 
 My Tech lead has given me a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
 
